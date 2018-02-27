@@ -1,2 +1,1 @@
-# SimpleApp
-test react native!!!
+test React Native!!!
